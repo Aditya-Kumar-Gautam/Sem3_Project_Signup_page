@@ -20,7 +20,7 @@ body{
     transform: translateY(-50%);
     padding: 20px 40px;
     /* background-color: white; */
-    background:linear-gradient(to top left,#ffffff33,rgb(185, 184, 184));
+    background:linear-gradient(to top left,#ffffff33,rgb(222, 97, 97));
     backdrop-filter: blur(8px);
     border-radius: 10px;
     box-shadow: 2px 2px 5px #3c3f41;
